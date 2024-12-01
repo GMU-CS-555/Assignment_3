@@ -1,0 +1,1086 @@
+[33;20m2024-12-01 14:03:19,569 [INFO] Beginning run of DVR with ./networks/network_1.txt[0m
+[33;20m2024-12-01 14:03:19,575 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,575 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,575 [INFO] Round 0: Node 0[0m
+[33;20m2024-12-01 14:03:19,575 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:03:19,575 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:03:19,576 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,577 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,577 [INFO] Updated[0m
+[33;20m2024-12-01 14:03:19,577 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,577 [INFO] Round 0: Node 1[0m
+[33;20m2024-12-01 14:03:19,577 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:03:19,577 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:03:19,577 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Updated[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Round 0: Node 2[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Updated[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Round 0: Node 3[0m
+[33;20m2024-12-01 14:03:19,578 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:03:19,579 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:03:19,579 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,579 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,579 [INFO] Updated[0m
+[33;20m2024-12-01 14:03:19,579 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,579 [INFO] Round 0: Node 4[0m
+[33;20m2024-12-01 14:03:19,579 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:03:19,579 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:03:19,580 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,580 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,580 [INFO] Updated[0m
+[33;20m2024-12-01 14:03:19,580 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,581 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,581 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,581 [INFO] Round 1: Node 0[0m
+[33;20m2024-12-01 14:03:19,581 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:03:19,581 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:03:19,581 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Round 1: Node 1[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Round 1: Node 2[0m
+[33;20m2024-12-01 14:03:19,582 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:03:19,583 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:03:19,583 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,583 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,583 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:03:19,583 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,583 [INFO] Round 1: Node 3[0m
+[33;20m2024-12-01 14:03:19,583 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:03:19,583 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:03:19,584 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Round 1: Node 4[0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,584 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:03:19,585 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,585 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Final Output:[0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Node 0 DV = [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Node 1 DV = [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Node 2 DV = [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Node 3 DV = [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Node 4 DV = [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:03:19,585 [INFO] Number of rounds till convergence = 2[0m
+[33;20m2024-12-01 14:03:19,585 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:03:19,586 [INFO] finished[0m
+[33;20m2024-12-01 14:21:02,546 [INFO] Beginning run of DVR with ./networks/network_1.txt[0m
+[33;20m2024-12-01 14:21:02,553 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,553 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,553 [INFO] Round 0: Node 0[0m
+[33;20m2024-12-01 14:21:02,553 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:21:02,554 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:21:02,555 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,556 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,556 [INFO] Updated[0m
+[33;20m2024-12-01 14:21:02,556 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,556 [INFO] Round 0: Node 1[0m
+[33;20m2024-12-01 14:21:02,556 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:21:02,556 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:21:02,557 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,557 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,557 [INFO] Updated[0m
+[33;20m2024-12-01 14:21:02,557 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,557 [INFO] Round 0: Node 2[0m
+[33;20m2024-12-01 14:21:02,557 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:21:02,557 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:21:02,558 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,558 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,558 [INFO] Updated[0m
+[33;20m2024-12-01 14:21:02,558 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,558 [INFO] Round 0: Node 3[0m
+[33;20m2024-12-01 14:21:02,558 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:21:02,558 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:21:02,559 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,559 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,559 [INFO] Updated[0m
+[33;20m2024-12-01 14:21:02,559 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,559 [INFO] Round 0: Node 4[0m
+[33;20m2024-12-01 14:21:02,559 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:21:02,560 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:21:02,560 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,560 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,560 [INFO] Updated[0m
+[33;20m2024-12-01 14:21:02,560 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,560 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,560 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,560 [INFO] Round 1: Node 0[0m
+[33;20m2024-12-01 14:21:02,560 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:21:02,561 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:21:02,561 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,562 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,562 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:21:02,562 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,562 [INFO] Round 1: Node 1[0m
+[33;20m2024-12-01 14:21:02,562 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:21:02,562 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:21:02,562 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,562 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,563 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:21:02,563 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,563 [INFO] Round 1: Node 2[0m
+[33;20m2024-12-01 14:21:02,563 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 14:21:02,563 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:21:02,564 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,564 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,564 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:21:02,564 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,564 [INFO] Round 1: Node 3[0m
+[33;20m2024-12-01 14:21:02,564 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 14:21:02,564 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 14:21:02,565 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,565 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,565 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:21:02,565 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,565 [INFO] Round 1: Node 4[0m
+[33;20m2024-12-01 14:21:02,565 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 14:21:02,565 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 14:21:02,565 [INFO] Current DV Matrix: [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,566 [INFO] Last DV Matrix [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,566 [INFO] Not Updated[0m
+[33;20m2024-12-01 14:21:02,566 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,566 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,566 [INFO] Final Output:[0m
+[33;20m2024-12-01 14:21:02,566 [INFO] Node 0 DV = [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,566 [INFO] Node 1 DV = [[ 0.  2. inf inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,566 [INFO] Node 2 DV = [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 14:21:02,567 [INFO] Node 3 DV = [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf  5.  0.  4. inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,567 [INFO] Node 4 DV = [[ 0.  2. inf inf  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 14:21:02,567 [INFO] Number of rounds till convergence = 2[0m
+[33;20m2024-12-01 14:21:02,567 [INFO] ----------------------[0m
+[33;20m2024-12-01 14:21:02,568 [INFO] finished[0m
+[33;20m2024-12-01 16:07:43,171 [INFO] Beginning run of DVR with ./networks/network_1.txt[0m
+[33;20m2024-12-01 16:07:43,176 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,176 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,176 [INFO] Round 0: Node 0[0m
+[33;20m2024-12-01 16:07:43,176 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,177 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,177 [INFO] Updating distance from Node 0 to Node 2 via Neighbor 1[0m
+[33;20m2024-12-01 16:07:43,178 [INFO] Current DV Matrix: [[ 0.  2.  7. inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,178 [INFO] Updating distance from Node 0 to Node 3 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:43,178 [INFO] Last DV Matrix [[ 0.  2.  7. inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,179 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Round 0: Node 1[0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Updating distance from Node 1 to Node 3 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Updating distance from Node 1 to Node 4 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Current DV Matrix: [[ 0.  2.  7.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,179 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Round 0: Node 2[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Updating distance from Node 2 to Node 0 via Neighbor 1[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Updating distance from Node 2 to Node 4 via Neighbor 1[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  8.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Updating distance from Node 2 to Node 4 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:43,180 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  8.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Round 0: Node 3[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Updating distance from Node 3 to Node 0 via Neighbor 2[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Updating distance from Node 3 to Node 1 via Neighbor 2[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 7.  5.  0.  4.  5.]
+ [11.  9.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Updating distance from Node 2 to Node 0 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 7.  5.  0.  4.  5.]
+ [11.  9.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Updating distance from Node 3 to Node 0 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:43,181 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,182 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,182 [INFO] Round 0: Node 4[0m
+[33;20m2024-12-01 16:07:43,182 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,182 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,182 [INFO] Updating distance from Node 4 to Node 1 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:43,182 [INFO] Updating distance from Node 4 to Node 2 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:43,182 [INFO] Current DV Matrix: [[ 0.  2.  7.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  8.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,182 [INFO] Updating distance from Node 0 to Node 2 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Last DV Matrix [[ 0.  2.  7.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  8.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Updating distance from Node 4 to Node 2 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Round 1: Node 0[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Current DV Matrix: [[ 0.  2.  7.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,183 [INFO] Updating distance from Node 0 to Node 2 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Last DV Matrix [[ 0.  2.  7.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,184 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Round 1: Node 1[0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,184 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,184 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Round 1: Node 2[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Updating distance from Node 2 to Node 0 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Round 1: Node 3[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,185 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Updating distance from Node 3 to Node 1 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,186 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Round 1: Node 4[0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,186 [INFO] Updating distance from Node 3 to Node 1 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  9.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,187 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,187 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] Round 2: Node 0[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,187 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,188 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Round 2: Node 1[0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:43,188 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,188 [INFO] Round 2: Node 2[0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,189 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Round 2: Node 3[0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,189 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,190 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,190 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,190 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,190 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,190 [INFO] Round 2: Node 4[0m
+[33;20m2024-12-01 16:07:43,190 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,190 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,190 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Round 3: Node 0[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Round 3: Node 1[0m
+[33;20m2024-12-01 16:07:43,191 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,192 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,192 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,192 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,192 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,192 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,192 [INFO] Round 3: Node 2[0m
+[33;20m2024-12-01 16:07:43,192 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:43,192 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,193 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,193 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,193 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,193 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,193 [INFO] Round 3: Node 3[0m
+[33;20m2024-12-01 16:07:43,193 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:43,193 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Round 3: Node 4[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,194 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,194 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,195 [INFO] Final Output:[0m
+[33;20m2024-12-01 16:07:43,195 [INFO] Node 0 DV = [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,195 [INFO] Node 1 DV = [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,195 [INFO] Node 2 DV = [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:43,195 [INFO] Node 3 DV = [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,195 [INFO] Node 4 DV = [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:43,195 [INFO] Number of rounds till convergence = 4[0m
+[33;20m2024-12-01 16:07:43,195 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:43,196 [INFO] finished[0m
+[33;20m2024-12-01 16:07:52,594 [INFO] Beginning run of DVR with ./networks/network_1.txt[0m
+[33;20m2024-12-01 16:07:52,597 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,597 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,597 [INFO] Round 0: Node 0[0m
+[33;20m2024-12-01 16:07:52,597 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,597 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,598 [INFO] Updating distance from Node 0 to Node 2 via Neighbor 1[0m
+[33;20m2024-12-01 16:07:52,599 [INFO] Current DV Matrix: [[ 0.  2.  7. inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,599 [INFO] Updating distance from Node 0 to Node 3 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:52,599 [INFO] Last DV Matrix [[ 0.  2.  7. inf  1.]
+ [ 2.  0.  5. inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,599 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,599 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,599 [INFO] Round 0: Node 1[0m
+[33;20m2024-12-01 16:07:52,599 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Updating distance from Node 1 to Node 3 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Updating distance from Node 1 to Node 4 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Current DV Matrix: [[ 0.  2.  7.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Last DV Matrix [[ 0.  2.  7.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,600 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Round 0: Node 2[0m
+[33;20m2024-12-01 16:07:52,600 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Updating distance from Node 2 to Node 0 via Neighbor 1[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Updating distance from Node 2 to Node 4 via Neighbor 1[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  8.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Updating distance from Node 2 to Node 4 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  8.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Round 0: Node 3[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,601 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Updating distance from Node 3 to Node 0 via Neighbor 2[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Updating distance from Node 3 to Node 1 via Neighbor 2[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 7.  5.  0.  4.  5.]
+ [11.  9.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Updating distance from Node 2 to Node 0 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Updating distance from Node 3 to Node 0 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Round 0: Node 4[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Updating distance from Node 4 to Node 1 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:52,602 [INFO] Updating distance from Node 4 to Node 2 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Current DV Matrix: [[ 0.  2.  7.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  8.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Updating distance from Node 0 to Node 2 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Last DV Matrix [[ 0.  2.  7.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  8.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Updating distance from Node 4 to Node 2 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Round 1: Node 0[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,603 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,604 [INFO] Current DV Matrix: [[ 0.  2.  7.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,604 [INFO] Updating distance from Node 0 to Node 2 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:52,604 [INFO] Last DV Matrix [[ 0.  2.  7.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,604 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,604 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,604 [INFO] Round 1: Node 1[0m
+[33;20m2024-12-01 16:07:52,604 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,605 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,605 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,605 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf  5.  0.  4. inf]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,605 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,605 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,605 [INFO] Round 1: Node 2[0m
+[33;20m2024-12-01 16:07:52,605 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,605 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,606 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,606 [INFO] Updating distance from Node 2 to Node 0 via Neighbor 3[0m
+[33;20m2024-12-01 16:07:52,606 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,607 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,607 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,607 [INFO] Round 1: Node 3[0m
+[33;20m2024-12-01 16:07:52,607 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,607 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,607 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,607 [INFO] Updating distance from Node 3 to Node 1 via Neighbor 4[0m
+[33;20m2024-12-01 16:07:52,607 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [ 1. inf inf  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,608 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,608 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,608 [INFO] Round 1: Node 4[0m
+[33;20m2024-12-01 16:07:52,608 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,608 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,608 [INFO] Updating distance from Node 3 to Node 1 via Neighbor 0[0m
+[33;20m2024-12-01 16:07:52,609 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,609 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,609 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,609 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,609 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,609 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,609 [INFO] Round 2: Node 0[0m
+[33;20m2024-12-01 16:07:52,609 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,609 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,610 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,611 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,611 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,611 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,611 [INFO] Round 2: Node 1[0m
+[33;20m2024-12-01 16:07:52,611 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,611 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,611 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,612 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 7.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,612 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,612 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,612 [INFO] Round 2: Node 2[0m
+[33;20m2024-12-01 16:07:52,612 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,612 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,612 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,612 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  9.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,613 [INFO] Updated[0m
+[33;20m2024-12-01 16:07:52,613 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,613 [INFO] Round 2: Node 3[0m
+[33;20m2024-12-01 16:07:52,613 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,613 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,613 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,613 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,615 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,615 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,615 [INFO] Round 2: Node 4[0m
+[33;20m2024-12-01 16:07:52,615 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,615 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,616 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,616 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] Round 3: Node 0[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,616 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Round 3: Node 1[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Round 3: Node 2[0m
+[33;20m2024-12-01 16:07:52,617 [INFO] Receiving DV from Node 1[0m
+[33;20m2024-12-01 16:07:52,618 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,618 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,618 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,618 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,618 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,618 [INFO] Round 3: Node 3[0m
+[33;20m2024-12-01 16:07:52,618 [INFO] Receiving DV from Node 2[0m
+[33;20m2024-12-01 16:07:52,618 [INFO] Receiving DV from Node 4[0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Current DV Matrix: [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Last DV Matrix [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,619 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Round 3: Node 4[0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Receiving DV from Node 0[0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Receiving DV from Node 3[0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Current DV Matrix: [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,619 [INFO] Last DV Matrix [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Not Updated[0m
+[33;20m2024-12-01 16:07:52,620 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,620 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Final Output:[0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Node 0 DV = [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Node 1 DV = [[ 0.  2.  6.  2.  1.]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Node 2 DV = [[inf inf inf inf inf]
+ [ 2.  0.  5.  4.  3.]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [inf inf inf inf inf]][0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Node 3 DV = [[inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 6.  5.  0.  4.  5.]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Node 4 DV = [[ 0.  2.  6.  2.  1.]
+ [inf inf inf inf inf]
+ [inf inf inf inf inf]
+ [ 2.  4.  4.  0.  1.]
+ [ 1.  3.  5.  1.  0.]][0m
+[33;20m2024-12-01 16:07:52,620 [INFO] Number of rounds till convergence = 4[0m
+[33;20m2024-12-01 16:07:52,620 [INFO] ----------------------[0m
+[33;20m2024-12-01 16:07:52,621 [INFO] finished[0m
